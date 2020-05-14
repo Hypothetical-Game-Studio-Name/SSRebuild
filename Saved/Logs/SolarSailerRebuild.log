@@ -6412,3 +6412,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.14-11.31.33:863][740]LogSlate: Window 'BrassEngineTeleGraph' being destroyed
 [2020.05.14-11.31.33:879][740]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
 [2020.05.14-11.31.33:879][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-11.40.08:944][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.14-11.40.08:949][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevLevelNathaniel" FILE="D:/SolarSailor/SSRebuild/Saved/Autosaves/Game/Levels/DevLevelNathaniel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.14-11.40.09:033][845]LogSavePackage: Moving 'D:/SolarSailor/SSRebuild/Saved/DevLevelNathaniel_Auto127FFC30F453C72F5A3CBAF90D9F4228B.tmp' to 'D:/SolarSailor/SSRebuild/Saved/Autosaves/Game/Levels/DevLevelNathaniel_Auto1.umap'
+[2020.05.14-11.40.09:035][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DevLevelNathaniel' took 0.116
+[2020.05.14-11.40.09:035][845]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.116
+[2020.05.14-11.41.44:729][771]LogActorFactory: Actor Factory created Wall
+[2020.05.14-11.41.48:801][259]LogActorFactory: Actor Factory created Wall
+[2020.05.14-11.41.49:713][366]Cmd: DELETE
+[2020.05.14-11.41.49:713][366]Cmd: ACTOR DELETE
+[2020.05.14-11.41.49:715][366]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.14-11.41.49:737][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.14-11.41.49:740][366]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.05.14-11.42.06:491][372]LogEditorViewport: Clicking on Actor (LMB): CameraBP_C (CameraBP)
+[2020.05.14-11.42.23:516][392]LogEditorViewport: Clicking on Actor (LMB): CoreHazardClass_C (CoreHazardClass4)
+[2020.05.14-11.45.48:576][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.05.14-11.45.49:749][560]LogSlate: Window 'Save Content' being destroyed
+[2020.05.14-11.45.49:868][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevLevelNathaniel" FILE="D:/SolarSailor/SSRebuild/Content/Levels/DevLevelNathaniel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.14-11.45.49:893][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.05.14-11.45.49:956][560]LogSavePackage: Moving 'D:/SolarSailor/SSRebuild/Saved/DevLevelNathaniel50D9C8C84F06834D861843B095B30810.tmp' to 'D:/SolarSailor/SSRebuild/Content/Levels/DevLevelNathaniel.umap'
+[2020.05.14-11.45.49:971][560]LogFileHelpers: Saving map 'DevLevelNathaniel' took 0.102
+[2020.05.14-11.45.49:979][560]AssetCheck: New page: Asset Save: DevLevelNathaniel
+[2020.05.14-11.45.49:979][560]LogContentValidation: Display: Validating World /Game/Levels/DevLevelNathaniel.DevLevelNathaniel
+[2020.05.14-11.56.19:341][253]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Igli\Downloads\valve aaron (1).FBX)
+[2020.05.14-11.56.19:351][253]LogFbx: Loading FBX Scene from C:\Users\Igli\Downloads\valve aaron (1).FBX
+[2020.05.14-11.56.19:358][253]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.14-11.56.20:743][253]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.14-11.56.20:785][253]LogFbx: Display: Triangulating static mesh Cylinder078
+[2020.05.14-11.56.20:836][253]LogStaticMesh: Building static mesh valve_aaron__1_...
+[2020.05.14-11.56.20:851][253]LogStaticMesh: Built static mesh [0.02s] /Game/ArtFolder/Art/Meshes/valve_aaron__1_.valve_aaron__1_
+[2020.05.14-11.56.22:121][393]LogActorFactory: Actor Factory created valve_aaron__1_
+[2020.05.14-11.56.22:958][492]LogActorFactory: Actor Factory created valve_aaron__1_
+[2020.05.14-11.56.48:925][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.05.14-11.56.50:241][527]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.14-11.56.50:627][527]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ArtFolder/Art/Meshes/valve_aaron__1_.valve_aaron__1_
+[2020.05.14-11.56.51:231][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.05.14-11.57.40:723][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.05.14-11.57.40:733][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DevLevelNathaniel" FILE="D:/SolarSailor/SSRebuild/Saved/Autosaves/Game/Levels/DevLevelNathaniel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.14-11.57.40:832][ 40]LogSavePackage: Moving 'D:/SolarSailor/SSRebuild/Saved/DevLevelNathaniel_Auto2503C0C22457550491642B5B4A468EE8D.tmp' to 'D:/SolarSailor/SSRebuild/Saved/Autosaves/Game/Levels/DevLevelNathaniel_Auto2.umap'
+[2020.05.14-11.57.40:834][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DevLevelNathaniel' took 0.134
+[2020.05.14-11.57.40:834][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.134
