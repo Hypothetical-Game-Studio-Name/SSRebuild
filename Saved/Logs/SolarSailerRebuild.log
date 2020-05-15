@@ -607,3 +607,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.15-13.07.51:960][875]LogSlate: Window 'Source Control Login' being destroyed
 [2020.05.15-13.08.24:129][593]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/SolarSailor/SSRebuild'
 [2020.05.15-13.08.24:336][593]EditorErrors: Warning: No assets to check in!
+[2020.05.15-13.13.37:402][298]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.15-13.13.37:420][298]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArtFolder/Art/Meshes/Environment/Bed.Bed
+[2020.05.15-13.13.37:842][298]LogSlate: Took 0.000601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.15-13.13.45:093][156]LogSlate: Window 'Bed' being destroyed
+[2020.05.15-13.13.45:112][156]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-13.13.45:112][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-13.13.46:378][286]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ArtFolder/Art/Meshes/Environment/Bed.Bed
+[2020.05.15-13.13.50:345][630]LogRenderer: Reallocating scene render targets to support 1128x648 Format 10 NumSamples 1 (Frame:350).
+[2020.05.15-13.13.50:393][630]LogRenderer: Reallocating scene render targets to support 1128x692 Format 10 NumSamples 1 (Frame:351).
+[2020.05.15-13.13.54:151][ 46]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/EngineMeshes/Cube.Cube
+[2020.05.15-13.13.54:286][ 46]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.05.15-13.13.54:420][ 46]LogSlate: Window 'Tutorials' being destroyed
+[2020.05.15-13.13.54:450][ 47]LogRenderer: Reallocating scene render targets to support 1128x776 Format 10 NumSamples 1 (Frame:1).
+[2020.05.15-13.13.58:742][537]LogSlate: Window 'Cube' being destroyed
+[2020.05.15-13.13.58:745][537]LogSlate: Window 'Cube' being destroyed
+[2020.05.15-13.13.58:753][537]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-13.13.58:753][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.15-13.13.58:792][537]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.15-13.13.58:792][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
